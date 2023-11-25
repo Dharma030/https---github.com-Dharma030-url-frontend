@@ -1,5 +1,4 @@
-import React from 'react'
-import LogButton from '../LogButton';
+import React from 'react';
 import AllURL from '../AllURL';
 import { useNavigate } from "react-router-dom";
 

@@ -13,7 +13,6 @@ import { NameProvider } from './Context/context';
 import ActivationMail from './Components/ActivationMail/index.js';
 import ResetPwd from './Components/ResetPwd';
 import Redirect from './Components/Redirect';
-import Home from './Components/Home';
 import AllURLlayout from './Components/AllURLlayout';
 
 function App() {
